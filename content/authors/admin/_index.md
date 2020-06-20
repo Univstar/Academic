@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xingyu Ni
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student at Center on Frontiers of Computing Studies
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Peking University
+  url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational physics, computer graphics, physical simulation and physically based rendering.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Physics
+- Computer Graphics
+- Physical Simulation
+- Physically Based Rendering
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Student in Computer Science
+    institution: Center on Frontiers of Computing Studies, Peking University
+    year: from 2020
+  - course: BSc in Physics (Dual Degree)
+    institution: School of Physics, Peking University
+    year: 2020
+  - course: BSc in Computer Science
+    institution: School of Electronics Engineering and Computer Science, Peking University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: mailto:nixy@pku.edu.cn  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=rPPrJuoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Univstar
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xingyu Ni is currently a PhD student at [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/), advised by [Prof. Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/) and [Prof. John E. Hopcroft](http://www.cs.cornell.edu/jeh/), and an intern at [Advanced Innovation Center for Future Visual Entertainment (AICFVE)](http://fve.bfa.edu.cn/) in [Beijing Film Academy](http://www.bfa.edu.cn/), advised by [Dr. Bin Wang](https://binwangbfa.github.io/).
+He graduated from Turing Class, Peking University in July 2020 and earned dual bachelor's degrees in computer science and physics.
